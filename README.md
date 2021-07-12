@@ -1,2 +1,64 @@
-# dtmoney
-dtmoney
+<h4 align="center">
+:construction: :octocat:  Dtmoney.. :construction:
+</h4>
+
+<p align="center">
+  <a href="#rocket-project">Project</a>
+</p>
+
+## :rocket: Project
+
+> Github Explorer is amazing github repositories - made with Reactjs and Typescript.
+> [Test-WebApp in Vercel](https://github-explorer.italocedro.vercel.app/)
+
+<h1 align="center">
+    <img alt="Github Explorer" title="#home" src="assets/home.png" width="500px" />
+</h1>
+
+<h1 align="center">
+    <img alt="Github Explorer" title="#details" src="./assets/details.png" width="500px" />
+</h1>
+
+## Technologies
+
+This project was developed with the following technologies:
+
+- [Typescript](https://www.typescriptlang.org/)
+- [Javascript](https://developer.mozilla.org/en-US/)
+- [React](https://reactjs.org)
+
+## Installation
+
+``` js
+  // First of all, you may clone this repo
+
+  git clone
+
+  // Install the dependencies
+
+  yarn install
+
+  // Start the application
+
+  yarn start
+```
+
+## Layout
+
+Para acessar o layout utilize a ferramenta
+<a href="https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1" target="_blank">Figma</a>.
+
+## How to contribute
+
+- Make a fork;
+- Create a branck with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
+## License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) for details.
+
+Made with ♥ by Italo Cedro
