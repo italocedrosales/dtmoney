@@ -15,7 +15,7 @@
 ## :rocket: Project
 
 > DT money is amazing application - made with Reactjs and Typescript.
-> [Test-WebApp in Vercel](https://github-explorer.italocedro.vercel.app/)
+>
 
 <h1 align="center">
     <img alt="Github Explorer" title="#home" src="assets/dtmoney.png" width="500px" />
