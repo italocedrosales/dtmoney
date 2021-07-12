@@ -3,20 +3,22 @@
 </h4>
 
 <p align="center">
-  <a href="#rocket-project">Project</a>
+  <a href="#rocket-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installation">Installation
+</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
 </p>
 
 ## :rocket: Project
 
-> Github Explorer is amazing github repositories - made with Reactjs and Typescript.
+> DT money is amazing application - made with Reactjs and Typescript.
 > [Test-WebApp in Vercel](https://github-explorer.italocedro.vercel.app/)
 
 <h1 align="center">
-    <img alt="Github Explorer" title="#home" src="assets/home.png" width="500px" />
-</h1>
-
-<h1 align="center">
-    <img alt="Github Explorer" title="#details" src="./assets/details.png" width="500px" />
+    <img alt="Github Explorer" title="#home" src="assets/dtmoney.png" width="500px" />
 </h1>
 
 ## Technologies
@@ -46,7 +48,7 @@ This project was developed with the following technologies:
 ## Layout
 
 Para acessar o layout utilize a ferramenta
-<a href="https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1" target="_blank">Figma</a>.
+<a href="https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1" target="_blank">Figma</a>.
 
 ## How to contribute
 
