@@ -28,6 +28,7 @@ This project was developed with the following technologies:
 - [Typescript](https://www.typescriptlang.org/)
 - [Javascript](https://developer.mozilla.org/en-US/)
 - [React](https://reactjs.org)
+- [Miragejs](https://miragejs.com/)
 
 ## Installation
 
